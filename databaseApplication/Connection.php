@@ -111,10 +111,6 @@ final class Connection extends AbstractConfiguration implements InterfaceConnect
     {
     }
 
-    private function __serialize()
-    {
-    }
-
     /**
      * Protected method to set config to database connection
      * @param string $database is a file name of archive .ini
